@@ -1,9 +1,7 @@
-# Rock-Paper-Scissors-Game
-A beginner-friendly Python Rock-Paper-Scissors game featuring three rounds, score tracking, input validation, and random computer choices.
-
 # ✊ Rock Paper Scissors Game
 
-A beginner-friendly Rock-Paper-Scissors game developed using Python.
+A beginner-friendly Python Rock-Paper-Scissors game featuring three rounds, score tracking, input validation, and random computer choices.
+
 
 ## 🎮 About the Project
 
